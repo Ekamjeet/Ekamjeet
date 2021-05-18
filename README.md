@@ -17,6 +17,8 @@ If you're interested in discussing my *evil plans to take over the world*, feel 
 
 **For Web**
 
+
+- [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
 - [Svelte](https://svelte.dev/)
 - [JavaScript](https://www.javascript.com/)
