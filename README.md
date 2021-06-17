@@ -28,7 +28,6 @@ If you're interested in discussing my *evil plans to take over the world*, feel 
 
 **For General Programming**
 
-- [Rust](https://www.rust-lang.org/)
 - [Java](https://www.java.com/en/)
 - [C/C++](https://en.wikipedia.org/wiki/C_(programming_language))
 
