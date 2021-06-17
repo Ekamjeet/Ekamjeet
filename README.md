@@ -33,8 +33,7 @@ If you're interested in discussing my *evil plans to take over the world*, feel 
 
 
 **For Data wrangling**
-
-- [J](https://www.jsoftware.com/)
+- Not yet
 
 **For Mobile Application**
 
